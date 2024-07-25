@@ -1,1 +1,1 @@
-leezhiy/openapi-generator
+leezhiy/openapi-generator:v1.0.0
